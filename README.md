@@ -35,3 +35,9 @@
 
 #-----step6-----
 #Upsample, and manually draw 'rim.ni'i in 'scaled_T1.nii', layered, see 'LAYERNING.sh' for details.
+
+
+
+Reference Code:
+https://github.com/layerfMRI/repository
+https://github.com/layerfMRI/repository/blob/master/NORDIC
